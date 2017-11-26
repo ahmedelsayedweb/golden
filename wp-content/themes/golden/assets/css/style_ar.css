@@ -1,0 +1,48 @@
+.col-md-3, .col-sm-6 {
+    float: right;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+.tl-contact-form input[type="text"], .tl-contact-form input[type="email"], .tl-contact-form input[type="password"], .tl-contact-form input[type="phone"], .tl-contact-form input[type="tel"], .tl-contact-form textarea{
+	    text-align: right;
+}
+.tl-copyright-row .top-social-links {
+    float: left;
+	    direction: ltr;
+}
+.ft-listed li .fa {
+    font-size: 14px;
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin-left: 10px;
+}
+.tl-partners-section.pd-tb-80 {
+    padding-top: 70px;
+    padding-bottom: 50px;
+    direction: ltr;
+}
+#tl-banner-slider {
+    float: left;
+    width: 100%;
+    position: relative;
+    direction: ltr;
+}
+.tl-header .col-md-3,.tl-header .col-sm-6 {
+    float: left;
+}
+.tl-top-row .tl-top-listed {
+    float: left;
+    padding: 16px 0;
+    direction: ltr;
+}
+.navbar-nav > li {
+    float: right;
+}
+ul.nav.navbar-nav {
+    padding: 36px 0px 36px 14px;
+}
